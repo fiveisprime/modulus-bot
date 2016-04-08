@@ -1,0 +1,16 @@
+{
+  "name": "modulus-slackbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Matt Hernandez <matt@modulus.io>",
+  "license": "MIT",
+  "dependencies": {
+    "hoek": "3.0.4",
+    "request": "2.70.0",
+    "slackbots": "0.5.1"
+  }
+}
